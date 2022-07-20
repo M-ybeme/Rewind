@@ -128,3 +128,14 @@ body{
 .checklist>li i{
     color:var(--mdm-primary-color);
 }
+.revMessage{
+    font-size: 1.5rem;
+}
+.success{
+    font-size: 2rem;
+    color:green
+}
+.fail{
+    font-size: 2rem;
+    color: red;
+}
